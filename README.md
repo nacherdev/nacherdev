@@ -1,4 +1,7 @@
-<h1 align="center">¡Hola, soy Nacher! 👋</h1>
+<h1 align="center">
+  ¡Hola, soy Nacher! 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 <h3 align="center">Desarrollador Full Stack apasionado desde Málaga, España 🇪🇸</h3>
 
@@ -12,23 +15,20 @@
 ## 🛠️ Stack Tecnológico
 
 ### **Frontend & Web Core**
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 
 ### **Backend & APIs**
-- ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel" />
 
 ### **Mobile & Lenguajes**
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,androidstudio" />
 
 ### **Bases de Datos & DevOps**
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-- **Infraestructura:** VPS & Gestión de Servidores ☁️
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,npm,git,github,linux,nginx,ubuntu,cloudflare,vscode" />
 
 ---
+
+
 
 ## 🚀 Sobre mí
 *   🌱 Actualmente estoy ampliando mis conocimientos hacia arquitecturas **Full Stack**.
@@ -40,7 +40,7 @@
 ## 📫 ¿Cómo conectar conmigo?
 
 - 📧 **Email:** [nacheruddin22@gmail.com](mailto:nacheruddin22@gmail.com)
-- 💬 ¡Hablemos de código, desarrollo web o de cualquier cosa!
+- 💬 ¡Hablemos de lo que sea!
 
 ---
 
