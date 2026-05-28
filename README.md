@@ -48,7 +48,7 @@
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nacherdev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nacherdev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nacherdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
