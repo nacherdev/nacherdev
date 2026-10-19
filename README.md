@@ -12,6 +12,13 @@
 
 ---
 
+## 🚀 Sobre mí
+*   🌱 Actualmente estoy ampliando mis conocimientos hacia arquitecturas **Full Stack**.
+*   💻 Me gusta automatizar procesos, desplegar mis propios servicios en **VPS** y trabajar con arquitecturas modernas.
+*   📍 Ubicado en **Málaga, España**.
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 ### **Frontend & Web Core**
@@ -25,15 +32,6 @@
 
 ### **Bases de Datos & DevOps**
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,npm,git,github,linux,nginx,ubuntu,cloudflare,vscode" />
-
----
-
-
-
-## 🚀 Sobre mí
-*   🌱 Actualmente estoy ampliando mis conocimientos hacia arquitecturas **Full Stack**.
-*   💻 Me gusta automatizar procesos, desplegar mis propios servicios en **VPS** y trabajar con arquitecturas modernas.
-*   📍 Ubicado en **Málaga, España**.
 
 ---
 
